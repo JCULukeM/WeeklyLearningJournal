@@ -2,7 +2,7 @@
 
 <b>Learning Activities</b>
 
-<p>Got ahead of myself and had already been using a local host for wordpress with loacal by flywheel</p>
+<p>Got ahead of myself and had already been using a local host for wordpress with local by flywheel</p>
 
 <b>Resources and Links</b>
 <p>https://www.linkedin.com/learning/wordpress-building-child-themes-3/level-up-to-wordpress-developer?u=2223545</P>
