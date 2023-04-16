@@ -14,4 +14,4 @@
 *How to use local host by flywheel
 
 <b>Career/Employability/Learning Insights</b>
-<p>As I have no interest in web design and currently work in networking no specific area's were of value. But it always good practicing effiently learning new softwares. No real additional insight this week</p>
+<p>As I have no interest in web design and currently work in networking no specific area's were of value. But it's always good practicing effiently learning new softwares. No real additional insight this week</p>
